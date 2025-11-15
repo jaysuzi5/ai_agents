@@ -19,6 +19,7 @@ dependencies = [
     "lxml>=6.0.2",
     "playwright>=1.56.0",
     "wikipedia>=1.4.0",
+    "uuid7>=0.1.0",
 ]
 
 [project.optional-dependencies]
