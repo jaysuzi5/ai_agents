@@ -24,6 +24,7 @@ dependencies = [
     "nest-asyncio>=1.6.0",
     "mcp>=1.21.0",
     "fastmcp>=2.13.1",
+    "atlassian-python-api>=4.0.7",
 ]
 
 [project.optional-dependencies]
