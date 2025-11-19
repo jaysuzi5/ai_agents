@@ -10,4 +10,4 @@ results.txt
 htmlcov/
 logs/
 memory.db*
-Training/LangGraph/06_AutoLog/vehicles.json
+vehicles.json
